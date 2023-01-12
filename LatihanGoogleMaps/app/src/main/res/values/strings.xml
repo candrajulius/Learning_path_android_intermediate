@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LatihanGoogleMaps</string>
+    <string name="your_api_key">AIzaSyChv9WpEEC9qmn-oJjPby6CRwZGU8G6iXI</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+</resources>

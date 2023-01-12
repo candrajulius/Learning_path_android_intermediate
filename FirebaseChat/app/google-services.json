@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "830364738327",
+    "firebase_url": "https://fir-chat-ae646-default-rtdb.firebaseio.com",
+    "project_id": "fir-chat-ae646",
+    "storage_bucket": "fir-chat-ae646.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830364738327:android:c5c9d62f069ec06e1dcd52",
+        "android_client_info": {
+          "package_name": "com.candra.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830364738327-u1t4ef5tbfigkhgluiuj6k92petgjqda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.candra.firebasechat",
+            "certificate_hash": "51a1ea94d453fa68be87018eb91bd01e622cb201"
+          }
+        },
+        {
+          "client_id": "830364738327-0pfoc7r3c3pp00dflkvsd9p1pa209hce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATKuE3sSZFcrZbRyUa8OhluHYWgKt__M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830364738327-0pfoc7r3c3pp00dflkvsd9p1pa209hce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
